@@ -1,0 +1,23 @@
+{
+  "name": "elg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.jsx",
+  "dependencies": {
+    "electron-prebuilt": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenokabe/elg.git"
+  },
+  "author": "Ken Okabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenokabe/elg/issues"
+  },
+  "homepage": "https://github.com/kenokabe/elg#readme"
+}
